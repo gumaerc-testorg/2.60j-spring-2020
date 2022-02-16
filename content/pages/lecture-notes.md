@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 78355c2a-4e12-31cd-fe56-114491d11920
 ---
@@ -193,7 +196,7 @@ TOPICS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[CO2 Capture and Storage (PDF - 2.8MB)]({{< baseurl >}}/resources/mit2_60s20_lec20)
+[CO{{< sub "2" >}} Capture and Storage (PDF - 2.8MB)]({{< baseurl >}}/resources/mit2_60s20_lec20)
 {{< tdclose >}}
 
 {{< trclose >}}

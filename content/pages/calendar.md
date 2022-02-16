@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 048856f4-aaf9-228b-2a5f-ae6f871410b0
 ---
@@ -253,7 +255,7 @@ Homework 5 out
 20
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 Capture and Storage
+CO{{< sub "2" >}} Capture and Storage
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: ee83453f-61f1-43b6-4839-a54a09f7f663
 ---
@@ -20,12 +23,12 @@ Topic: Storage, Stationary or Mobile, at Different Scales
 
 Choose thermal, chemical, electrical, mechanical storage or a combination. Apply to a bike, car, (off-grid) house/building/MIT, grid-level, renewable power plant, city/country. Select a technology, review recent developments and do design analysis to your selected application.
 
-Example: Using H2 as a Transportation Fuel
-------------------------------------------
+Example: Using H{{< sub "2" >}} as a Transportation Fuel
+--------------------------------------------------------
 
-1.  Background material may include: Why use H2 as a transportation fuel, pros and cons.
+1.  Background material may include: Why use H{{< sub "2" >}} as a transportation fuel, pros and cons.
     
-    How: Sources and production methods of H2, distribution, local and onboard storage, how will it be used in a powertrain, i.e., in engines, fuel cells, turbines? Prospects for success or improvement.
+    How: Sources and production methods of H{{< sub "2" >}}, distribution, local and onboard storage, how will it be used in a powertrain, i.e., in engines, fuel cells, turbines? Prospects for success or improvement.
     
 2.  Which part of the problem do you propose to focus your analysis on?
     
