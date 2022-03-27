@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: f3abd116-a5f2-0d68-c34f-bd05362d1aec
 resourcetype: Document
 title: 2.60 S2020 Introduction to EES-1
 uid: 01a47432-a89a-2529-f29d-85f1ea0c089e

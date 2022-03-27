@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 78355c2a-4e12-31cd-fe56-114491d11920
 resourcetype: Document
 title: '2.60 S2020 Lecture 3: Thermodynamics of Ideal Gas Mixtures and Separation'
 uid: 8b87cb42-c382-5683-0b01-9879615bb64b

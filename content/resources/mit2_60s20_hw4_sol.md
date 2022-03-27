@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db44b605-0149-8560-8f6c-85583b23bd4f
 resourcetype: Document
 title: 2.60 S2020 Homework 4 Solutions
 uid: 37b6c382-3931-6320-cdd0-81c83108a867

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 78355c2a-4e12-31cd-fe56-114491d11920
 resourcetype: Document
 title: '2.60 S2020 Lecture 9: Fuel Cells at Finite Current'
 uid: 757c2772-4566-8e54-81fb-cb066880c1f5
