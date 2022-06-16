@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/b2ff2e02a1b621ca53080dc5ccb5f846_MIT2_60s20_hw2_sol.pdf
+file: /courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/b2ff2e02a1b621ca53080dc5ccb5f846_MIT2_60s20_hw2_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
