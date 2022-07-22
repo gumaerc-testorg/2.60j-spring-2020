@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes 5 homework assignments and solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: db44b605-0149-8560-8f6c-85583b23bd4f
 ---
@@ -21,46 +25,46 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 1 (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw1) 
+{{% resource_link d060fbd3-9d89-a05a-1dae-d3013ebe88c4 "Homework 1 (PDF)" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 1 Solutions (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw1_sol)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Homework 2 (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Homework 2 Solutions (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw2_sol)
+{{% resource_link 55e636e2-56ec-24bb-56b4-7a6b1a47057e "Homework 1 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw3) 
+{{% resource_link 53c0cd1f-11c6-93e0-e5bd-0fe3594760e2 "Homework 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 3 Solutions (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw3_sol)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Homework 4 (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw4)
-{{< tdclose >}}
-{{< tdopen >}}
-[Homework 4 Solutions (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw4_sol)
+{{% resource_link b2ff2e02-a1b6-21ca-5308-0dc5ccb5f846 "Homework 2 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 5 (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw5)
+{{% resource_link fa208ad3-d5a5-5239-ecd7-37964ae97bcf "Homework 3 (PDF)" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework 5 Solutions (PDF)]({{< baseurl >}}/resources/mit2_60s20_hw5_sol)
+{{% resource_link 7c3137c1-1ab6-6898-33df-4cd9bf9bd365 "Homework 3 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link ea8d8288-becc-6b05-3676-94c45bf793e7 "Homework 4 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 37b6c382-3931-6320-cdd0-81c83108a867 "Homework 4 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 9716e91c-2b49-c6bc-56a4-5c7a48bb70da "Homework 5 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 8cf3323e-47b7-8231-e1df-ffcdc7612715 "Homework 5 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
