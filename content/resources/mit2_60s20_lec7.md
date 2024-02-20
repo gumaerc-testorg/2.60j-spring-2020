@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/d75a4da5b0e8eaf3079fc20c125d9d77_MIT2_60s20_lec7.pdf
+file_size: 1153355
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
