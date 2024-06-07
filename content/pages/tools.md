@@ -8,7 +8,7 @@ title: Tools
 uid: f3abd116-a5f2-0d68-c34f-bd05362d1aec
 ---
 
-{{% resource_link "c3ff8edb-f749-4eba-9ad0-1bbecad36059" "Engineering Equation Solver" %}} (EES) is a software used for some homework assignments in this course. The following files are courtesy of Omar Labban. Used with permission.
+[Engineering Equation Solver](https://fchartsoftware.com/ees/) (EES) is a software used for some homework assignments in this course. The following files are courtesy of Omar Labban. Used with permission.
 
 {{% resource_link 9e0f183f-f016-1572-b735-ccf18d7e3573 "Engineering Equation Solver Access Instructions (PDF)" %}}
 
