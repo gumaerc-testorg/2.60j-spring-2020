@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/7d771fbe39f92627e2c90df517b8e0a3_MIT2_60s20_lec6.pdf
+file: /ol-ocw-studio-app/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/7d771fbe39f92627e2c90df517b8e0a3_MIT2_60s20_lec6.pdf
 file_size: 2598943
 file_type: application/pdf
 learning_resource_types:
