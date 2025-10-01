@@ -78,4 +78,4 @@ Term Report
 Schedule Note
 -------------
 
-Two days of the original lecture schedule and one homework assignment were omitted, and the last half of the course was conducted online because of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic).
+Two days of the original lecture schedule and one homework assignment were omitted, and the last half of the course was conducted online because of the {{% resource_link "fcd85de1-3dbb-4bf8-a25b-55030b214a8c" "COVID-19 pandemic" %}}.
